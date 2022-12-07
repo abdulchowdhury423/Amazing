@@ -1,8 +1,12 @@
 # Amazing Header
+ - TODO: Make h1 so Amazing that there is no doubt the emplementation is where we where headed. 
 
-## Git Hub is so usefull<h2>No Doubt</h2>
+## No Doubt
+ - TODO: Add h2 elements that we have no doubt and write relavant string inside. 
 
-### Users can just use a markup file like this and push english words to the git-hub online or keep local (in computers)<h3>For Sure...</h3>
+### For Sure
+ - TODO: Add h3 elements that are relavant for sure. 
 
-#### People should use git in all document sharing opertunities in my opprinion<h4>Yes... this is trul;y amazing!</h4>
+####  That's Amazing!
+ - TODO: Find out about header element. 
 
