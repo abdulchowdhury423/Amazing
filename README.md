@@ -1,12 +1,15 @@
-# Amazing Header
- - TODO: Make h1 so Amazing that there is no doubt the emplementation is where we where headed. 
+# Amazing
+
+- A list few of my favorite things
 
 ## No Doubt
- - TODO: Add h2 elements that we have no doubt and write relavant string inside. 
+
+- Remembering my favorite things makes me feel so glad.
 
 ### For Sure
- - TODO: Add h3 elements that are relavant for sure. 
 
-####  That's Amazing!
- - TODO: Find out about header element. 
+- TODO: Add h3 elements that are relavant for sure.
 
+#### That's Amazing
+
+- TODO: Find out about header element.
